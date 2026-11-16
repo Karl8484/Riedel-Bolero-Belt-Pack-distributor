@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<methodCall>
+	<methodName>GetObjectList</methodName>
+	<params>
+		<param><value><string>c0002817191</string></value></param>
+		<param><value><string>port</string></value></param>
+	</params>
+</methodCall>
